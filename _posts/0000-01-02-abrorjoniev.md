@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Had to change this line!
+> Please merge this branch!
 Use the left arrow to go back!
